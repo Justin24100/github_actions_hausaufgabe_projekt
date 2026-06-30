@@ -6,7 +6,7 @@ on:
       student_name:
         description: "Name fuer das Bash Skript"
         required: false
-        default: "Justin"
+        default: "Ibrahim"
         type: string
 
 jobs:

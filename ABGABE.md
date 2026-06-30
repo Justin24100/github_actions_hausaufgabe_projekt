@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-Link: TODO
+Link: https://github.com/Justin24100/github_actions_hausaufgabe_projekt
 
 ## Nachweise
 
@@ -37,10 +37,10 @@ Ausgefuehrte Skripte:
 
 ## Kontrollliste
 
-- [ ] Projekt liegt in einem GitHub Repository
-- [ ] Drei YAML Dateien liegen unter `.github/workflows`
+- [x] Projekt liegt in einem GitHub Repository
+- [x] Drei YAML Dateien liegen unter `.github/workflows`
 - [ ] Aufgabe 1 wurde manuell gestartet und ist erfolgreich gelaufen
 - [ ] Aufgabe 2 wurde manuell gestartet und ist erfolgreich gelaufen
 - [ ] Aufgabe 3 wurde durch Push auf `main` gestartet und ist erfolgreich gelaufen
-- [ ] Repository Link wurde eingetragen
+- [x] Repository Link wurde eingetragen
 - [ ] Screenshots oder kurze Nachweise wurden eingefuegt
